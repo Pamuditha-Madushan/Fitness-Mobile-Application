@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705607858092",
+    "firebase_url": "https://fanalprojectandroid-default-rtdb.firebaseio.com",
+    "project_id": "fanalprojectandroid",
+    "storage_bucket": "fanalprojectandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705607858092:android:949d33e5aa2a4289ac2c09",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705607858092-kb1f29h3dgm2e8ne812jjnai5oo20d83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnB3ofPsMi-h7Ie6viPSZmbKZJfoMBCXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705607858092-kb1f29h3dgm2e8ne812jjnai5oo20d83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
